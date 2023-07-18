@@ -18,5 +18,6 @@ Data exploration can help businesses explore large amounts of data quickly to be
 ![image](https://github.com/arijeet-pal13/Covid.Data.ExplorationAndReport.SQL.PowerBI/assets/84266230/3c493a6a-f958-400f-9130-6115df07fb49)
 
    * Visual Report:
-![image](https://github.com/arijeet-pal13/Covid.Data.ExplorationAndReport.SQL.PowerBI/assets/84266230/b9d12f78-02bf-4917-a719-101299095b2f)
+![image](https://github.com/arijeet-pal13/Covid.Data.ExplorationAndReport.SQL.PowerBI/assets/84266230/b1fc9f0b-13fd-4359-bffa-9dbcbc886c66)
+
  
